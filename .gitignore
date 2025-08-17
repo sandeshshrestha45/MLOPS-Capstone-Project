@@ -89,3 +89,7 @@ target/
 .mypy_cache/
 
 atlas/
+
+cred.txt
+
+local_s3/
